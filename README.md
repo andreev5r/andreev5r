@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petar Andreev
 - 👀 I’m interested in gaining knowledge and getting involved in interesting projects
-- 🌱 I’m currently learning Java @ Telerik Alpha Academy
+- 🌱 I’ve completed the Java Bootcamp @ Telerik Alpha Academy
 - 📫 You can reach me at andreev5r@pm.me
 
 <!---
